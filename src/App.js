@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Dashbord from "./Component/Covid19/Dashbord";
+import Dashbord from "./Dashbord";
 
 function App() {
   return (
